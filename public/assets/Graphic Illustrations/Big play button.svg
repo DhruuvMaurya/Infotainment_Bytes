@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 612 792" style="enable-background:new 0 0 612 792;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#Ellipse_4_00000170245820942926655590000011598049543349699200_);}
+	.st1{fill:#F5F4F5;}
+</style>
+<linearGradient id="Ellipse_4_00000056394656866626893270000011119044563683167418_" gradientUnits="userSpaceOnUse" x1="1.61" y1="792.5612" x2="1.821" y2="791.5612" gradientTransform="matrix(429.306 0 0 -430 -428.306 340991)">
+	<stop  offset="0" style="stop-color:#F28E62"/>
+	<stop  offset="1" style="stop-color:#EA4F96"/>
+</linearGradient>
+<ellipse id="Ellipse_4" style="fill:url(#Ellipse_4_00000056394656866626893270000011119044563683167418_);" cx="306.22" cy="395.53" rx="214.65" ry="215"/>
+<path id="Polygon_1" class="st1" d="M418.37,396.19c1.49,0.72,2.11,2.52,1.39,4.01c-0.29,0.61-0.78,1.1-1.39,1.39L241.29,487.5
+	c-1.49,0.72-3.29,0.1-4.01-1.39c-0.2-0.41-0.3-0.86-0.3-1.31V312.98c0-1.66,1.34-3,3-3c0.45,0,0.9,0.1,1.31,0.3L418.37,396.19z"/>
+</svg>
