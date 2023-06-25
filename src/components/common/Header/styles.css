@@ -8,6 +8,7 @@
 
 .image-wrapper {
   width: 300px;
+  cursor: pointer;
 }
 
 .logo {
@@ -36,13 +37,22 @@
 }
 
 .nav-link {
-  text-decoration: none;
+  font-size: 18px;
+  font-weight: 500;
   color: white;
   text-transform: uppercase;
-  font-weight: 500;
-  transform: translateZ(0);
+  text-decoration: none;
 }
 
 .nav-link:hover {
   transform: scale(1.03);
+}
+
+.nav-link:active {
+  transform: scale(0.98);
+}
+
+.icon-wrapper {
+  display: flex;
+  gap: 20px;
 }

@@ -1,8 +1,8 @@
 import { Box } from "@mui/material";
 import React from "react";
 
-const SimpleButton = () => {
+const Button = () => {
   return <Box>SimpleButton</Box>;
 };
 
-export default SimpleButton;
+export default Button;

@@ -1,0 +1,21 @@
+.logo-wrapper {
+  background-color: white;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  padding: 10px;
+  transition: transform 0.1s;
+}
+
+.logo-wrapper:hover {
+  transform: scale(1.03);
+}
+
+.logo-wrapper:active {
+  transform: scale(0.97);
+}
+
+.logo {
+  width: 100%;
+  height: 100%;
+}
